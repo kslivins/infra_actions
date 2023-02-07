@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['kslivins.ddns.net', ]
 
-
 # Application definition
 
 INSTALLED_APPS = [
