@@ -50,6 +50,7 @@ MIDDLEWARE = [
     #
 ]
 
+
 ROOT_URLCONF = 'infra_project.urls'
 
 TEMPLATES = [
